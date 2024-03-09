@@ -50,6 +50,4 @@ This Java project implements a versatile car parking system with a modular desig
 - Configuration initialization for capacity, floors, vehicle types, currency, and hourly charges.
 - Vehicle entry and exit using either registration number or token.
 
----
-
-Feel free to modify this `README.md` as needed for your project documentation.
+ 
